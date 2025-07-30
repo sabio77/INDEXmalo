@@ -1377,7 +1377,7 @@ form.get-started-form button {
 }
 
 .footer .footer-content {
-  background-image: url("../img/footer/footer-bg.svg");
+  background-image: url("./img/footer/footer-bg.svg");
   background-position: top right;
   background-size: cover;
   background-repeat: no-repeat;
