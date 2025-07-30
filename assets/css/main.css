@@ -1329,7 +1329,7 @@ form.get-started-form button {
 }
 
 .footer .cta-section .cta-wrapper {
-  background-image: url("../img/cta/cta-bg.svg");
+  background-image: url("./img/cta/cta-bg.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
