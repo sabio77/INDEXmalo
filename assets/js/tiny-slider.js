@@ -1,4 +1,4 @@
-var tns = function() {//
+var tns = function() {
     var t = window
       , Ai = t.requestAnimationFrame || t.webkitRequestAnimationFrame || t.mozRequestAnimationFrame || t.msRequestAnimationFrame || function(t) {
         return setTimeout(t, 16)
