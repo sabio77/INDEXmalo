@@ -763,7 +763,7 @@ p {
 .hero-section {
   height: 720px;
   background-color: #fafafa;
-  background-image: url("../img/hero/hero-bg.svg");
+  background-image: url("./css/img/hero/hero-bg.svg");
   background-position: left bottom;
   background-size: cover;
   background-repeat: no-repeat;
