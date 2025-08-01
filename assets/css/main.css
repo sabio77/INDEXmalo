@@ -1071,7 +1071,7 @@ form.get-started-form button {
 }
 
 .icon-style i {
-  background: linear-gradient(180deg, #2768FF 0%, #BE27FF 100%);
+  background: linear-gradient(180deg, #2768FF 0%, #115E59 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
