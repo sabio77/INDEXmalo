@@ -1052,7 +1052,7 @@ form.get-started-form button {
 .icon-style::after {
   content: '';
   position: absolute;
-  background: #D9BEFE;
+  background: #14b8a6; /*teal*/
   opacity: .24;
   width: 100%;
   height: 100%;
