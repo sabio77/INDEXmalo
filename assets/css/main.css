@@ -835,7 +835,7 @@ background-image: url("./img/hero/hero-bg.svg");
   font-size: 20px;
   line-height: 28px;
   margin-bottom: 30px;
-  color: #d3d3d3; /* Gris claro */
+  color: rgb(94, 234, 212); /* teal 300 */
 }
 
 @media (max-width: 767px) {
