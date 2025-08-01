@@ -804,7 +804,7 @@ background-image: url("./img/hero/hero-bg.svg");
 .hero-section .hero-content h1 span {
   font-size: 52px;
   font-weight: 700;
-  color: white;
+  color: #d3d3d3; /* Gris claro */
   display: block;
 }
 
