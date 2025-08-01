@@ -759,11 +759,12 @@ p {
 
 /* ====================
 		HERO CSS
+background-image: url("./img/hero/hero-bg.svg");
 ======================= */
 .hero-section {
   height: 720px;
   background-color: #fafafa;
-  background-image: url("./img/hero/hero-bg.svg");
+  background-image: url("./img/hero/hero-bg.webp");
   background-position: left bottom;
   background-size: cover;
   background-repeat: no-repeat;
